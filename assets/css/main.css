@@ -1793,6 +1793,25 @@ input, select, textarea {
 		opacity: 0.85;
 	}
 
+	.project-image {
+	position: relative;
+}
+
+	.project-image img {
+		transition: opacity 0.3s ease;
+	}
+
+	.project-image img:nth-child(2) {
+		position: absolute;
+		top: 0;
+		left: 0;
+		opacity: 0;
+	}
+
+	.project-image:hover img:nth-child(2) {
+		opacity: 1;
+	}
+
 /* List */
 
 	ul {
