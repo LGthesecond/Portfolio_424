@@ -1789,9 +1789,9 @@ input, select, textarea {
 				width: auto;
 			}
 
-	a.image:hover {
+/*	a.image:hover {
 		opacity: 0.85;
-	}
+	}*/
 
 	.project-image {
 	position: relative;
