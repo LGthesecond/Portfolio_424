@@ -1748,7 +1748,7 @@ input, select, textarea {
 
 /* Image */
 
-	.image {
+	/*.image {
 		-moz-transition: opacity 0.25s ease-in-out;
 		-webkit-transition: opacity 0.25s ease-in-out;
 		-ms-transition: opacity 0.25s ease-in-out;
@@ -1787,7 +1787,7 @@ input, select, textarea {
 			.image.centered img {
 				margin: 0 auto;
 				width: auto;
-			}
+			}*/
 
 /*	a.image:hover {
 		opacity: 0.85;
